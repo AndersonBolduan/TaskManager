@@ -1,0 +1,6 @@
+com\example\taskmanager\util\HibernateUtil.class
+com\example\taskmanager\model\Category.class
+com\example\taskmanager\model\Task.class
+com\example\taskmanager\model\TimeSession.class
+com\example\taskmanager\gestor\Gestor.class
+com\example\taskmanager\dao\TaskDAO.class
